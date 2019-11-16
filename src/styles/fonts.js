@@ -57,12 +57,12 @@ import MontserratMediumWOFF2 from '@fonts/Montserrat/Montserrat-Medium.woff2';
 import MontserratMediumItalicTTF from '@fonts/Montserrat/Montserrat-MediumItalic.ttf';
 import MontserratMediumItalicWOFF from '@fonts/Montserrat/Montserrat-MediumItalic.woff';
 import MontserratMediumItalicWOFF2 from '@fonts/Montserrat/Montserrat-MediumItalic.woff2';
-import MontserratSemiboldTTF from '@fonts/Montserrat/Montserrat-Semibold.ttf';
-import MontserratSemiboldWOFF from '@fonts/Montserrat/Montserrat-Semibold.woff';
-import MontserratSemiboldWOFF2 from '@fonts/Montserrat/Montserrat-Semibold.woff2';
-import MontserratSemiboldItalicTTF from '@fonts/Montserrat/Montserrat-SemiboldItalic.ttf';
-import MontserratSemiboldItalicWOFF from '@fonts/Montserrat/Montserrat-SemiboldItalic.woff';
-import MontserratSemiboldItalicWOFF2 from '@fonts/Montserrat/Montserrat-SemiboldItalic.woff2';
+import MontserratSemiboldTTF from '@fonts/Montserrat/Montserrat-SemiBold.ttf';
+import MontserratSemiboldWOFF from '@fonts/Montserrat/Montserrat-SemiBold.woff';
+import MontserratSemiboldWOFF2 from '@fonts/Montserrat/Montserrat-SemiBold.woff2';
+import MontserratSemiboldItalicTTF from '@fonts/Montserrat/Montserrat-SemiBoldItalic.ttf';
+import MontserratSemiboldItalicWOFF from '@fonts/Montserrat/Montserrat-SemiBoldItalic.woff';
+import MontserratSemiboldItalicWOFF2 from '@fonts/Montserrat/Montserrat-SemiBoldItalic.woff2';
 
 import OpenSansRegularTTF from '@fonts/OpenSans/OpenSans-Regular.ttf';
 import OpenSansRegularWOFF from '@fonts/OpenSans/OpenSans-Regular.woff';
@@ -76,12 +76,12 @@ import OpenSansLightWOFF2 from '@fonts/OpenSans/OpenSans-Light.woff2';
 //import OpenSansMediumItalicTTF from '@fonts/OpenSans/OpenSans-MediumItalic.ttf';
 //import OpenSansMediumItalicWOFF from '@fonts/OpenSans/OpenSans-MediumItalic.woff';
 //import OpenSansMediumItalicWOFF2 from '@fonts/OpenSans/OpenSans-MediumItalic.woff2';
-import OpenSansSemiboldTTF from '@fonts/OpenSans/OpenSans-Semibold.ttf';
-import OpenSansSemiboldWOFF from '@fonts/OpenSans/OpenSans-Semibold.woff';
-import OpenSansSemiboldWOFF2 from '@fonts/OpenSans/OpenSans-Semibold.woff2';
-import OpenSansSemiboldItalicTTF from '@fonts/OpenSans/OpenSans-SemiboldItalic.ttf';
-import OpenSansSemiboldItalicWOFF from '@fonts/OpenSans/OpenSans-SemiboldItalic.woff';
-import OpenSansSemiboldItalicWOFF2 from '@fonts/OpenSans/OpenSans-SemiboldItalic.woff2';
+import OpenSansSemiboldTTF from '@fonts/OpenSans/OpenSans-SemiBold.ttf';
+import OpenSansSemiboldWOFF from '@fonts/OpenSans/OpenSans-SemiBold.woff';
+import OpenSansSemiboldWOFF2 from '@fonts/OpenSans/OpenSans-SemiBold.woff2';
+import OpenSansSemiboldItalicTTF from '@fonts/OpenSans/OpenSans-SemiBoldItalic.ttf';
+import OpenSansSemiboldItalicWOFF from '@fonts/OpenSans/OpenSans-SemiBoldItalic.woff';
+import OpenSansSemiboldItalicWOFF2 from '@fonts/OpenSans/OpenSans-SemiBoldItalic.woff2';
 
 
 
